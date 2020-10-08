@@ -14,7 +14,7 @@ Unfortunately, the SA-MP Wiki was taken offline in late september. Luckily, most
 
 But we need the community's help to transfer the old wiki content to its new home, here!
 
-If you're interested, see this link for instructions on how to convert content: https://github.com/openmultiplayer/wiki/issues/27#issuecomment-699635305
+If you're interested, see this link for instructions on how to convert content: https://www.open.mp/docs/meta/Contributing
 
 If you're not experienced with using GitHub or converting HTML, don't worry! You can help by just letting us know about issues (via Discord, Burgershot or social media) and the most important thing: _spreading the word!_ So be sure to bookmark this site and share it with anyone you know who's wondering where the SA-MP Wiki went.
 
